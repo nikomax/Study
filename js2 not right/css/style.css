@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 600px;
+    border: 1px solid black;
+    background: white;
+    margin: 0 auto;
+    height: 500px;
+}
+
+body {
+    background: gray;
+}
+
+ol{
+    margin-left: 20px;
+}
+
+.head {
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-weight: bold;
+}
+
+.button {
+    display: block;
+    height: 50px;
+    width: 250px;
+    margin: 0 auto;
+    background: lightskyblue;
+    border: 2px solid black;
+    font-weight: bold;
+}
